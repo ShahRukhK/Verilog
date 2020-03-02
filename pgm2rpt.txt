@@ -1,0 +1,10 @@
+Report:
+Shah-Rukh Khimani
+SAK130630
+
+Problem: The problems presented were to code a comparator which takes to inputs and gives an output. As well as coding of a 2:1 Mux and a 3:1 Mux which take multiple inputs and give an output based on a control value, in this case the clock. Also, presented were the adder,PC , sign extender, and the shift left logical 2.
+
+Approach: Coded each portion of the problem individually. Starting with the comparator and then using the skills gained to code the 2:1 Mux and 3:1 Mux respectivly. This was then followed by the coding of the adder and sign extender which were used to expand on arithmetic operation and implementation of boolean variables. Using a better understanding of these coding materials the PC or program counter was then coded in depth.
+
+Solution:
+The solution to the problem was a result of trial and error. Multiple test benches were used in order to test each individual part of the code. IN the end all code part were tested and had passed the testbenches and were deemed fitting for submission.
